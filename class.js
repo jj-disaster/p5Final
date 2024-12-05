@@ -1,6 +1,5 @@
 class tors
 {
-  test
  constructor(multiZ,multiX,incZ,incX,randZ,randX,rotSpeedX,rotSpeedY,rotSpeedZ,radius,opacity)
   {
 
